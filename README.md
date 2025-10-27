@@ -50,7 +50,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MokshGlala01&theme=tokyonight">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MokshGlala01&theme=tokyonight&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=MokshGlala01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=MokshGlala01&theme=tokyonight" alt="TIRTHMP streak badge"/>
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=MokshGlala01&theme=tokyonight" alt="MokshGlala01 streak badge"/>
 
 
 </div>
