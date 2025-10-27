@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="rocket.gif" width="45px">  About Me
+## 🚀 About Me
 
 🎓 **BTech Computer Science & Engineering** (2024–2028)  
 📍 SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering  
