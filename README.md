@@ -52,7 +52,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yug-the-pirate-king&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MokshGlala01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
