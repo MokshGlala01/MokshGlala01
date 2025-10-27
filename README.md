@@ -44,9 +44,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MokshGlala01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokshGlala01&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MokshGlala01&theme=tokyonight">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MokshGlala01&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MokshGlala01&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MokshGlala01&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MokshGlala01&theme=tokyonight&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=MokshGlala01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=MokshGlala01&theme=tokyonight" alt="TIRTHMP streak badge"/>
+
 
 </div>
 
