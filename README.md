@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=python,css,c,html,java,javascript" /><br />
 
   <h3>Tools & Environment Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,vscode,Windows Terminal" /><br />
+  <img src="https://skillicons.dev/icons?i=git,vscode" /><br />
 
   <h3>Operating Systems & Miscellaneous</h3>
   <img src="https://skillicons.dev/icons?i=figma" />
@@ -45,8 +45,8 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moksh Gala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh Gala&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MokshGlala01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokshGlala01&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
